@@ -1,1 +1,1 @@
-# lakakoy333.calc.gihub.io
+# lakakoy333.calc.github.io
